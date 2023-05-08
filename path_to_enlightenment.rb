@@ -4,6 +4,7 @@
 
 $LOAD_PATH << File.dirname(__FILE__)
 
+
 require 'about_asserts'
 require 'about_nil'
 require 'about_objects'
