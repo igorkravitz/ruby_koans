@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 # The path to Ruby Enlightenment starts with the following:
+# all modules to Ruby Enlightenment
 
 $LOAD_PATH << File.dirname(__FILE__)
-
 
 require 'about_asserts'
 require 'about_nil'
